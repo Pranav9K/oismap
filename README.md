@@ -1,3 +1,3 @@
-# oismap
-Webpage hosted on Netlify.com
-Url: oismap.netlify.app
+url: oismap.netlify.app
+webpage hosted using netlify.com
+
