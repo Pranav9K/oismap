@@ -1,2 +1,2 @@
 # oismap
-3D Interactive Map for GOOIS.
+Webpage hosted on Netlify.com
